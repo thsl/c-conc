@@ -3,7 +3,7 @@ Prototipo para o treinoweb
 
 Protótipo de telas
 
-Acesso pelo endereço: https://thsl.github.io/tw-prototipo/prototipo
+Acesso pelo endereço: https://thsl.github.io/tw-prototipo/prototipo/home_-_pagina_inicial
 
 Detalhes importantes:
 
