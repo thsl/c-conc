@@ -9,6 +9,8 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 .ellipse {
 }
 .shape {
@@ -79,6 +81,10 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
@@ -91,6 +97,34 @@
 .fontawesome {
 }
 .icon {
+}
+._btn-primary {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-primary_hover {
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-success {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-success_hover {
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
 }
 ._panel__panel-default__content_ {
   font-family:'ArialMT', 'Arial';
