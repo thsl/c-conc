@@ -204,6 +204,11 @@
   color:#333333;
   line-height:20px;
 }
+.tooltip {
+  color:#FFFFFF;
+}
+.tooltip_arrow {
+}
 .horizontal_line {
 }
 .link {
